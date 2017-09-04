@@ -1,0 +1,14 @@
+{
+  "name": "ec-express-flash-messages",
+  "description": "ec-express-flash-messages",
+  "repository": "https://github.com/express-components/ec-express-flash-messages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "LGPL-3.0"
+}
